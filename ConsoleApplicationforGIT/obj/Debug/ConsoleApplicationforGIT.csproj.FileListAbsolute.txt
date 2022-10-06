@@ -1,0 +1,7 @@
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\bin\Debug\ConsoleApplicationforGIT.exe.config
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\bin\Debug\ConsoleApplicationforGIT.exe
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\bin\Debug\ConsoleApplicationforGIT.pdb
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\obj\Debug\ConsoleApplicationforGIT.csproj.AssemblyReference.cache
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\obj\Debug\ConsoleApplicationforGIT.csproj.CoreCompileInputs.cache
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\obj\Debug\ConsoleApplicationforGIT.exe
+C:\Users\Ritu\source\repos\ConsoleApplicationforGIT\ConsoleApplicationforGIT\obj\Debug\ConsoleApplicationforGIT.pdb
