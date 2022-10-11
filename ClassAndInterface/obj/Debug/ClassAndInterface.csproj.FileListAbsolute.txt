@@ -1,0 +1,7 @@
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\bin\Debug\ClassAndInterface.exe.config
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\bin\Debug\ClassAndInterface.exe
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\bin\Debug\ClassAndInterface.pdb
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\obj\Debug\ClassAndInterface.csproj.AssemblyReference.cache
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\obj\Debug\ClassAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\obj\Debug\ClassAndInterface.exe
+C:\Users\Ritu\source\repos\ClassAndInterface\ClassAndInterface\obj\Debug\ClassAndInterface.pdb
